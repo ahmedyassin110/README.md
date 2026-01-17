@@ -40,11 +40,11 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ahmedyassin110/Ecommerce-Landing-Page"><b>Ecommerce-Landing-Page</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ahmedyassin110/Ecommerce-Landing-Page"><b>Ecommerce-landing-Page</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Ecommerce-landing-Page?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Ecommerce-landing-Page?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Ecommerce-landing-Page?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Ecommerce-landing-Page?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ahmedyassin110/AI-CodeAcademy"><b>AI-CodeAcademy</b></a></td>
