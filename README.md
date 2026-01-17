@@ -69,7 +69,7 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
     </tr>
     <tr>
       <td><a href="https://github.com/ahmedyassin110/Simpe-FoodVibes"><b>Simpe-FoodVibes</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Simpe-FoodVibess?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Simpe-FoodVibes?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Simpe-FoodVibes?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Simpe-FoodVibes?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Simpe-FoodVibes?style=flat-square&labelColor=343b41"/></td>
