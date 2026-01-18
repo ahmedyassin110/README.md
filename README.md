@@ -39,16 +39,6 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
     </tr>
   </thead>
   <tbody>
-
-    <!-- Portfolio First -->
-    <tr>
-      <td><a href="https://github.com/ahmedyassin110/Modern-Developer-Portfolio"><b>Modern-Developer-Portfolio</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-
     <tr>
       <td><a href="https://github.com/ahmedyassin110/Ecomerce-landing-page"><b>Ecomerce-landing-page</b></a></td>
       <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Ecomerce-landing-page?style=flat-square&labelColor=343b41"/></td>
@@ -56,7 +46,6 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
       <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Ecomerce-landing-page?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Ecomerce-landing-page?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/ahmedyassin110/AI-CodeAcademy"><b>AI-CodeAcademy</b></a></td>
       <td><img src="https://img.shields.io/github/stars/ahmedyassin110/AI-CodeAcademy?style=flat-square&labelColor=343b41"/></td>
@@ -64,7 +53,6 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
       <td><img src="https://img.shields.io/github/issues/ahmedyassin110/AI-CodeAcademy?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/AI-CodeAcademy?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/ahmedyassin110/Management-System-Dashboard"><b>Management-System-Dashboard</b></a></td>
       <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Management-System-Dashboard?style=flat-square&labelColor=343b41"/></td>
@@ -72,7 +60,6 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
       <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Management-System-Dashboard?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Management-System-Dashboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/ahmedyassin110/Simple-FitZone"><b>Simple-FitZone</b></a></td>
       <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Simple-FitZone?style=flat-square&labelColor=343b41"/></td>
@@ -80,7 +67,6 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
       <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Simple-FitZone?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Simple-FitZone?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
     <tr>
       <td><a href="https://github.com/ahmedyassin110/Simpe-FoodVibes"><b>Simpe-FoodVibes</b></a></td>
       <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Simpe-FoodVibes?style=flat-square&labelColor=343b41"/></td>
@@ -88,7 +74,13 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
       <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Simpe-FoodVibes?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Simpe-FoodVibes?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
+    <tr>
+      <td><a href="https://github.com/ahmedyassin110/Modern-Developer-Portfolio"><b>Modern-Developer-Portfolio</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
